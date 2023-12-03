@@ -4,6 +4,8 @@
 ### etc ###
 target
 src/main/resources/db.properties
+.classpath
+MANIFEST.MF
 
 ### IntelliJ IDEA ###
 .idea
