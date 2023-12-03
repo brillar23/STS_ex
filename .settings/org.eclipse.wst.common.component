@@ -5,6 +5,10 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <property name="context-root" value="music"/>
+<<<<<<< HEAD
         <property name="java-output-path" value="/STS_git/target/classes"/>
+=======
+        <property name="java-output-path" value="/Spring_gitJH/target/classes"/>
+>>>>>>> b1f102d8bcd00c9fcc4782199918759717879d2a
     </wb-module>
 </project-modules>
